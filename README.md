@@ -1,2 +1,2 @@
-#nano
+# This is a test project
 
